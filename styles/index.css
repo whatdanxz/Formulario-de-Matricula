@@ -1,4 +1,7 @@
 @import url(global.css);
 @import url(layout.css);
 @import url(forms.css);
+@import url(droparea.css);
 @import url(checkbox.css);
+@import url(buttons.css);
+@import url(inputs.css);
